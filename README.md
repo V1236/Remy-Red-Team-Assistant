@@ -9,6 +9,6 @@ Also it utilizes an openai API key so insert your own key in there if you want f
 
 Usage:
 
----
+'''
 python3 assistant.py
----
+'''
