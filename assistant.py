@@ -2243,7 +2243,7 @@ keyword_actions = {
     "exit": "exit_remy",
     "add_hosts": "add_hosts_entry",
     "next": "recommend_action",
-    "generate": "recommend_a_shell"
+    "generate": "recommend_a_shell",
     "shell": "recommend_a_shell"
 
 }
