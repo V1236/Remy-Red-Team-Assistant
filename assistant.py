@@ -1171,7 +1171,7 @@ def activity_guidance():
 log_file_path = "/home/kali/VforMSF/VforMSF.log"
 
 # OpenAI API Key (Replace with your own)
-OPENAI_API_KEY = ""
+OPENAI_API_KEY = "<*****REPLACE WITH YOUR OWN OPENAI API KEY*****>"
 
 # Set up OpenAI client
 client = openai.Client(
