@@ -4,7 +4,7 @@ Remy watches a log file (natively VforMSF.log) saving any important data that co
 
 Remy was made as an assistant for https://github.com/V1236/VforMSF but, with some changes, can be useful independently.
 
-If running without VforMSF, the Start_VforMSF.sh needs to be edited so that it begns logging a different script than "python3 VforMSF.py". You could have it log a bash terminal by simply replacing "python3 VforMSF.py" with "bash".
+If running without VforMSF, the Start_VforMSF.sh file needs to be edited so that it begns logging a different script than "python3 VforMSF.py". You could have it log a bash terminal by simply replacing "python3 VforMSF.py" with "bash".
 
 Also it utilizes an openai API key so insert your own key in the place that calls for it, if you want full functionality.
 
