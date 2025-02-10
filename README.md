@@ -7,5 +7,8 @@ If running by itself, the Start_VforMSF.sh needs to be edited so that it begns l
 
 Also it utilizes an openai API key so insert your own key in there if you want full functionality.
 
-usage:
-'''python3 assistant.py'''
+Usage:
+
+---
+python3 assistant.py
+---
