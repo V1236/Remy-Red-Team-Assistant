@@ -10,12 +10,13 @@ Also it utilizes an openai API key so insert your own key in the place that call
 
 Usage:
 
-'''
+```
 python3 assistant.py
-'''
+```
 
 What can Remy do?
 
+```
 [Remy] - Need help? Here’s what I can do! 💜
     - 'clear' : Reset conversation history
     - 'all' : Show all gathered notes
@@ -36,5 +37,6 @@ What can Remy do?
     - 'exit' : Quit
 
 [Remy] - I can also add domains to /etc/hosts & recommend what to do next, just ask! 💜
+```
 
 There is also built in automation like automatically searching searchsploit and metasploit for modules when a viewing vulnerability details.
